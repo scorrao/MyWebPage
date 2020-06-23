@@ -36,6 +36,7 @@
     }
     .asideFooter
     {
+        padding-top: 5%;
         flex-wrap: nowrap;
         order: 2;
     } 
