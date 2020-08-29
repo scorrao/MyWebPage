@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    margin: auto;
+    background-color: #ffe5b3;
+}
+
+.swp, .tdpi, .tdpii, .tracker, .motion{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+img {
+    max-height: 250px;
+}
+video {
+    max-height: 250px;
+}
+body {
+    background-color: #fff8ea;
+}
